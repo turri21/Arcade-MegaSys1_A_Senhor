@@ -1,4 +1,8 @@
+-=(MegaSys1_A_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Jaleco Mega System 1 A FPGA Implementation
 
 FPGA compatible core of Jaleco's Mega System 1 A (P-47 based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O) with assistance from [**atrac17**](https://github.com/atrac17). Verified against a authentic P-47: The Freedom Fighter PCB purchased by [**atrac17**](https://github.com/atrac17).
